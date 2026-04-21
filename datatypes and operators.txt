@@ -1,0 +1,85 @@
+Single Variables:
+
+integer   (ex : a=12,b=10)
+
+float	  (ex : x=3.14)
+
+Boolean	  (ex : true/false)
+
+string	  (ex : name="Thaniya")
+
+
+Multi Variables:
+
+list 	  (ex : vegetables=["cucumber","carrot"])
+
+array 	  (ex : arr=[1,2,3,4,5]
+
+tuple 	  (ex : tuple=(10,20)
+
+dictionary (ex : (dict={"name"="Thaniya", "age":19}
+
+
+OPERATORS IN PYTHON:
+
+1.ARITHMETIC OPERATORS: 
+
+Addition(a+b)
+
+Subtraction (a-b)
+
+Multiplication(a*b)
+
+Division(a/b)
+
+Modulus(a%b)
+
+2.COMPARISON OPERATORS:
+
+Equal to(a==b)
+
+Not equal to(a!=b)
+
+Greater than(a>b)
+
+Less than(a<b)
+
+Greater than or equal to(a>=b)
+
+Less than or equal to(a<=b)
+
+3.LOGICAL OPERATORS:
+
+AND (a&&b)
+
+OR  (a||b)
+
+NOT (a!b)
+
+4.ASSIGNMENT OPERATORS:
+
+assign (a=b)
+
+Add and assign (a+=b)
+
+Sub and assign (a-=b)
+
+Mul and assign (a*=b)
+
+Div and assign (a/=b)
+
+Mod and assign (a%=b)
+
+5.BITWISE OPERATORS:
+
+&  (AND)
+
+|  (OR)
+
+^  (XOR)
+
+~  (NOT)
+
+<< (Left shift)
+
+>> (Right shift)
